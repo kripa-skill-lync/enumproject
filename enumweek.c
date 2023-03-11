@@ -19,6 +19,7 @@ int main()
 
     printf("Day %d",today);
 printf("gagan");
+printf("conflict");
 
     return 0;
 }
