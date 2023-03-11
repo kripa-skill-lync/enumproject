@@ -19,7 +19,10 @@ int main()
 
     printf("Day %d",today);
 printf("gagan");
+
 printf("conflict");
+printf("tryyyyy");
+
 
     return 0;
 }
