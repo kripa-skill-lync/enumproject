@@ -18,6 +18,7 @@ int main()
     today=Sunday;
 
     printf("Day %d",today);
+printf("gagan");
 
     return 0;
 }
