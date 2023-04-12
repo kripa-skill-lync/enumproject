@@ -24,5 +24,6 @@ printf("conflict");
 printf("tryyyyy");
 
 printf("kripa is editing");
+  ousider has edited
     return 0;
 }
